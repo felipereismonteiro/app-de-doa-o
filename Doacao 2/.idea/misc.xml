@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Arley/AndroidStudioProjects/Curso/Curso/Olx Clone/app/src/main/res/drawable/bg_bottom_sheet.xml" value="0.3728205128205128" />
+        <entry key="..\:/Users/Arley/AndroidStudioProjects/Curso/Curso/Olx Clone/app/src/main/res/drawable/ic_camera.xml" value="0.3764102564102564" />
+        <entry key="..\:/Users/Arley/AndroidStudioProjects/Curso/Curso/Olx Clone/app/src/main/res/drawable/ic_close.xml" value="0.27314814814814814" />
+        <entry key="..\:/Users/Arley/AndroidStudioProjects/Curso/Curso/Olx Clone/app/src/main/res/drawable/ic_galeria.xml" value="0.27314814814814814" />
+        <entry key="..\:/Users/Arley/AndroidStudioProjects/Curso/Curso/Olx Clone/app/src/main/res/drawable/ic_search_view.xml" value="0.21875" />
+        <entry key="..\:/Users/Arley/AndroidStudioProjects/Curso/Curso/Olx Clone/app/src/main/res/layout/activity_form_anuncio.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/Arley/AndroidStudioProjects/Curso/Curso/Olx Clone/app/src/main/res/layout/anuncio_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Arley/AndroidStudioProjects/Curso/Curso/Olx Clone/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Arley/AndroidStudioProjects/Curso/Curso/Olx Clone/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Arley/AndroidStudioProjects/Curso/Curso/Olx Clone/app/src/main/res/layout/slider_layout_item.xml" value="0.31851851851851853" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/drawable/ic_todas_as_categorias.xml" value="0.105" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/activity_categorias.xml" value="0.25" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/activity_criar_conta.xml" value="0.22" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/activity_detalhes_anuncio.xml" value="0.18" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/activity_endereco.xml" value="0.22" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/activity_estados.xml" value="0.1" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/activity_filtros.xml" value="0.22" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/activity_login.xml" value="0.16" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/categoria_item.xml" value="0.33" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/divisor.xml" value="0.1" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/estado_item.xml" value="0.1" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/fragment_favoritos.xml" value="0.1" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/fragment_meus_anuncios.xml" value="0.1" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/fragment_minha_conta.xml" value="0.33" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.1" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/regiao_item.xml" value="0.1" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/slider_layout_item.xml" value="0.1" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/layout/toolbar_filtros.xml" value="0.18" />
+        <entry key="..\:/Users/felip/Desktop/Doacao 2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.17962962962962964" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
